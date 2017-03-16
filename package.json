@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "main": "app.js",
+  "dependencies": {
+    "micro": "^7.1.0"
+  },
+  "scripts": {
+    "start": "micro --port 5000"
+  }
+}
