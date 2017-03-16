@@ -2,7 +2,7 @@
   "private": true,
   "main": "app.js",
   "dependencies": {
-    "micro": "^7.1.0"
+    "micro": "http://github.com/zeit/micro/tarball/master"
   },
   "scripts": {
     "start": "micro --port 5000"
